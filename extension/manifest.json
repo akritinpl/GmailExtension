@@ -1,0 +1,11 @@
+{
+    "name": "ctrlInbox",
+    "author": "Akriti Nepal, Gabriel Gozo, Saleha Iftikhar", 
+    "description": "Helps Optimize Mail Storage",
+    "version": "1.0",
+    "manifest_version": 3,
+    "action": {
+      "default_popup": "test.html",
+      "default_icon": "mail_ext.png"
+    }
+  }
